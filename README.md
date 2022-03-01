@@ -1,6 +1,6 @@
 # my_first_repository
 this is my first repository
 
-and I add a line
+deleted and added another line
 
 This added on testing branch
